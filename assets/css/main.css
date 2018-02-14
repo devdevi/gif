@@ -1,0 +1,30 @@
+body{
+	font-family: 'Lato', sans-serif ;
+}
+#search_btn {
+	
+	margin-top: 2em;
+	border: .5px solid white;
+}
+img{
+
+	width: 250px;
+	height: 250px;
+}
+.card .card-title {
+    font-size: 16px;
+    font-weight: 300;
+}
+#titleMargin img{
+	width: 50%;
+}
+.card{
+	height: : 10em;	
+}
+.col.s4 {
+    height: 23em;
+    width: 33.3333333333%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+}
